@@ -1,0 +1,9 @@
+# please read this instruction before editing
+# add domains in alphabetical order
+# add subdomains in front of the main domain, separating them with a space
+
+analytics.google.com
+docker.com
+gitlab.com gitlab-static.net
+play.spotify.com
+spotify.com

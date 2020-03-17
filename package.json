@@ -1,0 +1,15 @@
+{
+  "name": "hostile",
+  "version": "1.0.0",
+  "description": "resolves all items in the domains file using a provided DNS server (e.g. a DNS Proxy) and saves them into hosts file (static host-entries)",
+  "scripts": {
+    "start": "node update-host-entries.js 178.22.122.100  185.51.200.2",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Babak Khorrami",
+    "email": "k.babak@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {}
+}
